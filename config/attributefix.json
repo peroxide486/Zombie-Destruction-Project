@@ -1,0 +1,20 @@
+{
+  "minecraft:generic.max_health": {
+    "enabled": true,
+    "max": {
+      "value": 1.0E8
+    }
+  },
+  "minecraft:generic.attack_damage": {
+    "enabled": true,
+    "max": {
+      "value": 1.0E7
+    }
+  },
+  "minecraft:generic.movement_speed": {
+    "enabled": true,
+    "max": {
+      "value": 100000.0
+    }
+  }
+}

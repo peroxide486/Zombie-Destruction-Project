@@ -1,0 +1,10 @@
+[ui]
+	#Icon direction relative to the crosshair: UP, DOWN, LEFT, RIGHT
+	#Allowed Values: UP, DOWN, LEFT, RIGHT
+	iconDirection = "RIGHT"
+
+[indicatorRules]
+	#Enable indicator matching rules loaded from JSON files in the config directory
+	enableJsonRules = true
+	#Directory under config/ where per-indicator json files are stored
+	jsonDirectory = "ibp/indicators"

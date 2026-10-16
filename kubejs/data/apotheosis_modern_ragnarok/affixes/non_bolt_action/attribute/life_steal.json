@@ -1,0 +1,50 @@
+{
+  "type": "apotheosis:attribute",
+  "definition": {
+    "affix_type": "stat",
+    "exclusive_set": [],
+    "weights": {
+      "quality": 0.1,
+      "weight": 25
+    }
+  },
+  "categories": [
+    "apotheosis_modern_ragnarok:shotgun",
+    "apotheosis_modern_ragnarok:full_auto",
+    "apotheosis_modern_ragnarok:semi_auto"
+  ],
+  "attribute": "apothic_attributes:life_steal",
+  "operation": "add_value",
+  "values": {
+    "apotheosis:common": {
+      "min": 0.03,
+      "steps": 5,
+      "step": 0.002
+    },
+    "apotheosis:uncommon": {
+      "min": 0.03,
+      "steps": 5,
+      "step": 0.002
+    },
+    "apotheosis:rare": {
+      "min": 0.03,
+      "steps": 10,
+      "step": 0.002
+    },
+    "apotheosis:epic": {
+      "min": 0.03,
+      "steps": 15,
+      "step": 0.002
+    },
+    "apotheosis:mythic": {
+      "min": 0.04,
+      "steps": 15,
+      "step": 0.002
+    },
+    "ancientreforging:ancient": {
+      "min": 0.05,
+      "steps": 15,
+      "step": 0.002
+    }
+  }
+}

@@ -1,0 +1,81 @@
+		[types.stone_type.tconstruct]
+			seared_stone = true
+			scorched_stone = true
+
+		[types.stone_type.ad_astra]
+			moon_stone = true
+			mars_stone = true
+			conglomerate = true
+			mercury_stone = true
+			venus_stone = true
+			glacio_stone = true
+			permafrost = true
+
+		[types.stone_type.biomesoplenty]
+			black_sandstone = true
+			orange_sandstone = true
+			white_sandstone = true
+			brimstone = true
+
+		[types.wood_type.tconstruct]
+			greenheart = true
+			skyroot = true
+			bloodshroom = true
+			enderbark = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.biomesoplenty]
+			null = true
+			origin = true
+			flowering_oak = true
+			cypress = true
+			snowblossom = true
+			rainbow_birch = true
+			fir = true
+			pine = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
