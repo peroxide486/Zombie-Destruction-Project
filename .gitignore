@@ -4,6 +4,7 @@
 *.log
 XaeroWaypoints_BACKUP*
 *.bak
+*-cache.*
 
 .gunsmithlib
 .mixin.out
@@ -36,3 +37,5 @@ heracles_options.json
 patchouli_data.json
 usercache.json
 usernamecache.json
+
+/config/jei/world
