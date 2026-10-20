@@ -7,7 +7,8 @@
   ],
   "results": [
     {
-      "item": "create:rose_quartz"
+      "id": "create:rose_quartz",
+      "count": 1
     }
   ]
 }
