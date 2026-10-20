@@ -3,6 +3,7 @@
 *.log.gz
 *.log
 XaeroWaypoints_BACKUP*
+*.bak
 
 .gunsmithlib
 .mixin.out

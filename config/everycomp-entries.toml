@@ -1,7 +1,3 @@
-		[types.stone_type.tconstruct]
-			seared_stone = true
-			scorched_stone = true
-
 		[types.stone_type.biomesoplenty]
 			black_sandstone = true
 			orange_sandstone = true
@@ -17,11 +13,8 @@
 			scoria = true
 			scorchia = true
 
-		[types.wood_type.tconstruct]
-			greenheart = true
-			skyroot = true
-			bloodshroom = true
-			enderbark = true
+		[types.stone_type.ae2]
+			quartz = true
 
 		[types.wood_type.mynethersdelight]
 			powdery = true
@@ -40,11 +33,6 @@
 			umbran = true
 			hellbark = true
 			empyreal = true
-
-		[types.leaves_type.tconstruct]
-			earth_slime = true
-			sky_slime = true
-			ender_slime = true
 
 		[types.leaves_type.biomesoplenty]
 			null = true
@@ -95,3 +83,15 @@
 			cut_brick_stairs = true
 			polished_cut_wall = true
 			cut_slab = true
+			table_cloth = true
+			ladder = true
+			scaffolding = true
+			encased_shaft = true
+			belt_funnel = true
+			alloy = true
+			encased_large_cogwheel = true
+			door = true
+			encased_cogwheel = true
+			bars = true
+			funnel = true
+			casing = true

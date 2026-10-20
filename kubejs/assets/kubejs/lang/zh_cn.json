@@ -1,5 +1,28 @@
 {
     "block.ancientreforging.ancient_reforging_table": "远古重铸台",
     "block.ancientreforging.ancient_reforging_table.desc": "使用宝石粉尘与稀有材料重洗词缀",
-    "block.ancientreforging.ancient_reforging_table.desc2": "最高品级：%s"
+    "block.ancientreforging.ancient_reforging_table.desc2": "最高品级：%s",
+    
+    "itemGroup.coebetterfinder": "矿石开掘-更好的查找器",
+    "item.coebetterfinder.radar_prospecteur": "勘探者雷达",
+    "tooltip.coebetterfinder.radar.cible": "目标: %s",
+    "tooltip.coebetterfinder.radar.cycle": "潜行+右键点击可切换目标矿脉类型",
+    "hud.coebetterfinder.aucune": "none",
+    "hud.coebetterfinder.courant": "当前区块: %s",
+    "hud.coebetterfinder.proche": "最近的矿脉: %s",
+    "hud.coebetterfinder.distance": "距离: %s 方块",
+    "hud.coebetterfinder.veines": "检测到矿脉: %s",
+    "hud.coebetterfinder.surVeine": "你正站在一条矿脉上！",
+    "gui.coebetterfinder.fermer": "关闭",
+    "subtitles.coebetterfinder.radar_use": "雷达脉冲",
+    "hud.coebetterfinder.cible.tous": "全部",
+    "hud.coebetterfinder.cible.change": "目标: %s",
+    "commande.coebetterfinder.pose.typeInconnu": "未知矿脉类型: %s",
+    "commande.coebetterfinder.pose.occupe": "区块[%s, %s]已经有一个矿脉（矿石挖掘每个区块只允许有一个）.",
+    "commande.coebetterfinder.pose.succes": "矿脉%s位于区块[%s, %s]中.",
+    "commande.coebetterfinder.supprime.aucune": "在区块 [%s, %s] 中没有要移除的矿脉.",
+    "commande.coebetterfinder.supprime.succes": "从区块 [%s, %s] 中移除的矿脉.",
+    "commande.coebetterfinder.liste.vide": "%s个区块内无矿脉.",
+    "commande.coebetterfinder.liste.entete": "%s个矿脉位于%s个区块内:",
+    "commande.coebetterfinder.liste.ligne": "- 在块[%s, %s]处的%s"
 }

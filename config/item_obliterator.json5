@@ -16,16 +16,16 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "minecraft:wooden_sword",
-    "minecraft:stone_sword",
-    "minecraft:wooden_pickaxe",
-    "minecraft:stone_pickaxe",
-    "minecraft:wooden_axe",
-    "minecraft:stone_axe",
-    "minecraft:wooden_shovel",
-    "minecraft:stone_shovel",
-    "minecraft:wooden_hoe",
-    "minecraft:stone_hoe"
+    //"minecraft:wooden_sword",
+    //"minecraft:stone_sword",
+    //"minecraft:wooden_pickaxe",
+    //"minecraft:stone_pickaxe",
+    //"minecraft:wooden_axe",
+    //"minecraft:stone_axe",
+    //"minecraft:wooden_shovel",
+    //"minecraft:stone_shovel",
+    //"minecraft:wooden_hoe",
+    //"minecraft:stone_hoe"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "biomesoplenty:rose_quartz_chunk",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "biomesoplenty:rose_quartz_block"
+        }
+    ]
+}
